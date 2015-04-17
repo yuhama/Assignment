@@ -24,8 +24,6 @@ Prerequisities
 
 - When the user enters the result for another round, send all played rounds so far to the action method.
 
----------------------------------------------------------------------------------------------------
-
 **Example scenario**
 
 Player starts a new game by visiting the web site:
