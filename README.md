@@ -64,4 +64,6 @@ You have 72 hours to complete the assignment. Hand it in by emailing the solutio
 
 **Last words**
 
-Good luck!
+Keep the code clean with a structure that is object oriented and easy to read and to test.
+
+Good luck and have fun!
