@@ -58,9 +58,9 @@ etc.
 
  The tenth frame may be composed of up to three rolls: the bonus roll(s) following a strike or spare in the tenth (sometimes referred to as the eleventh and twelfth frames) are fill ball(s) used only to calculate the score of the mark rolled in the tenth.
 
-**How to hand in the assingment**
+**Deadline**
 
-You have 72 hours to complete the assignment. Hand it in by emailing the solution to dev@apsis.com
+You have 72 hours to complete the assignment.
 
 **Last words**
 
