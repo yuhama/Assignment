@@ -8,13 +8,16 @@ In this assignment we want you to implement a simple web application that calcul
 Prerequisities
 ------------------
 
-- Create an SPA application with AngularJS as frontend and .NET or PHP WebAPI as backend (No database is required in this assignment)
-- Styling should be done in a pre-processor such as less, sass or stylus
-- Browser support should be the newest version of Chrome, FF, Safari and also IE10 and IE11.
+- Create a frontend application, ideally an SPA using technologies such as Angular or React.
+- Create a backend API (No database is required in this assignment).
+- Styling should be done in a pre-processor such as Less, Sass or Stylus.
+- Browser support should be the newest version of Chrome, Firefox, Safari, and IE11.
+- Use a well defined architecture with proper separation of concerns.
+- Write tests.
 
 **Structure**
 
-- Contains a Web API Controller and a corresponding action method that accepts an array of bowling scores and returns the current score. The controller should accept the frames as a JSON object with the following syntax: `{ "frames": [{"first": 3, "second": 4}, {"first": 10, "second": 0}, ... ] }` The controller should return the score as a JSON object with the following syntax: `{ "score": 7 }`
+- Contains at least an API endpoint handler that accepts an array of bowling scores and returns the current score. The handler should accept the frames as a JSON object with the following syntax: `{ "frames": [{"first": 3, "second": 4}, {"first": 10, "second": 0}, ... ] }`. The handler should return the score as a JSON object with the following syntax: `{ "score": 7 }`.
 
 - Displays input elements that enables the user to enter the result of one round. You can for example use two input elements of type text, one for each roll, and a submit button for submitting scores.
 
@@ -64,8 +67,8 @@ You have 72 hours to complete the assignment.
 
 **Last words**
 
-Keep the code clean with a structure that is object oriented and easy to read and to test.
+Keep the code clean with a clear architecture where the code is easy to read, and to test.
 
-Don't forget unittests.
+Don't forget tests.
 
 Good luck and have fun!
